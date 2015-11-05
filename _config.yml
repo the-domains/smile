@@ -1,0 +1,23 @@
+name: smile
+favicon: null
+layout_spectrum: 0.481113170273602
+typography_spectrum: 0.9039354929700494
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.14240697352215648
+  lightness: 0.09681082656607032
+  saturation: 0.9679577718488872
+  rhythmicContrast: 0.25896111293695867
+purpose: []
