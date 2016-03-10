@@ -1,6 +1,6 @@
 name: smile
 favicon: null
-layout_spectrum: 0.75543
+layout_spectrum: 0.24791
 typography_spectrum: 0.51169
 title: Smile
 collections:
@@ -30,12 +30,12 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#b7693e'
-    - '#f7beac'
-    - '#e29271'
-    - '#c34133'
-  brandStrength: 0
+    - '#adaebe'
+    - '#1b1919'
+    - '#617885'
+    - '#26b8e3'
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.2589611129369587
+  rhythmicContrast: 0.5
 purpose: []
